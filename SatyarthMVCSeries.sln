@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatyarthMVCApp", "SatyarthMVCApp\SatyarthMVCApp.csproj", "{817350F7-3F46-4095-A6B7-BA33C6970D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817350F7-3F46-4095-A6B7-BA33C6970D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817350F7-3F46-4095-A6B7-BA33C6970D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817350F7-3F46-4095-A6B7-BA33C6970D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817350F7-3F46-4095-A6B7-BA33C6970D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D00320-1430-4CB8-9D54-6F7FE64C6B01}
+	EndGlobalSection
+EndGlobal
