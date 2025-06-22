@@ -8,7 +8,7 @@ This series is designed to help you become confident in building real-world appl
 
 ## 📌 About the Series
 
-🎥 **YouTube Playlist:** [Watch the Series on YouTube]([https://www.youtube.com/@SatyarthProgrammingHub](https://www.youtube.com/playlist?list=PLfVlcqqDh2Tj2ucLZMilQR1oB9MLBdJ8V))
+🎥 **YouTube Playlist:** [Watch the Series on YouTube](https://www.youtube.com/playlist?list=PLfVlcqqDh2Tj2ucLZMilQR1oB9MLBdJ8V)
 
 📚 **Current Status:** ✅ Ongoing  
 🧠 **Level:** Beginner → Intermediate → Advanced  
